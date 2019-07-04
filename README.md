@@ -1,0 +1,1 @@
+# janalytics-unity3d-plugin
