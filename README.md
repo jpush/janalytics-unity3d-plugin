@@ -66,6 +66,8 @@
 
 ## API 说明
 
+Android 与 iOS [通用 API](/Doc/CommonAPI.md)。
+
 ### Android
 
 [Android API](/Doc/AndroidAPI.md)
