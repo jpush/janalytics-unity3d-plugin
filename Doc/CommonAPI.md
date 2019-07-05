@@ -297,6 +297,8 @@ JAnalyticsBinding.IdentifyAccount(account, callBack);
 JAnalyticsCallBack是回调方法，可以根据返回的code和msg获取调用成功/失败的信息
 
 ###错误码
+
+
 |code|message|备注|
 |:-----:|:----:|:-----:|
 |0|调用成功||
