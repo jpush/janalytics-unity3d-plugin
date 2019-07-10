@@ -3,7 +3,7 @@
 [![release](https://img.shields.io/badge/release-1.0.0-blue.svg)](https://github.com/jpush/janalytics-unity3d-plugin/releases)
 [![platforms](https://img.shields.io/badge/platforms-iOS%7CAndroid-green.svg)](https://github.com/jpush/janalytics-unity3d-plugin)
 
-这是极光官方支持的 JAnalytics Unity 插件（Android &amp; iOS）。
+极光官方支持的 JAnalytics Unity 插件（Android &amp; iOS）。
 
 ## 集成
 
